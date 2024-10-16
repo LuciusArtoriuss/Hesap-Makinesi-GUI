@@ -1,2 +1,3 @@
 # Hesap-Makinesi-GUI
-Arayüzlü Hesap Makinesi
+Python ile Arayüzlü Hesap Makinesi
+Calculator with Gui in Python
